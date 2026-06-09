@@ -1,0 +1,13 @@
+[project]
+name = "mint_attest_crewai"
+version = "0.1.0"
+description = "Attest completed CrewAI agent work on-chain via MINT Protocol — tamper-evident, verifiable work records."
+readme = "README.md"
+requires-python = ">=3.10,<3.14"
+dependencies = [
+    "crewai[tools]>=0.203.1",
+    "mint-attest>=0.3.1",
+]
+
+[tool.crewai]
+type = "tool"
