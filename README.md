@@ -14,7 +14,7 @@ Set one environment variable:
 
 | Var | Required | Purpose |
 |-----|----------|---------|
-| `MINT_API_KEY` | yes | Your MINT key. Free at https://foundrynet.io/signup. |
+| `MINT_API_KEY` | yes | Your MINT key. Free at https://foundrynet.io/signup?utm_source=github&utm_medium=readme&utm_campaign=mint-attest-crewai. |
 
 ## Install
 
@@ -52,4 +52,4 @@ Attested on MINT. attestation_id=att_9f3c… verify=https://explorer.solana.com/
 - **Explorer** — https://mint-explorer.vercel.app
 - **Example crew using it** — https://github.com/FoundryNet/mint-crewai-template
 
-Built by [FoundryNet](https://foundrynet.io) · hello@foundrynet.io
+Built by [FoundryNet](https://foundrynet.io?utm_source=github&utm_medium=readme&utm_campaign=mint-attest-crewai) · forge@foundrynet.io
